@@ -1,6 +1,8 @@
 # Custom
 .DS_Store
 *.json
+bin/
+downloads/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
